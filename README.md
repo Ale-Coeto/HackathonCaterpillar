@@ -19,6 +19,12 @@ Having achieved first place in this hackathon, our team earned the opportunity t
 <img width="550" alt="Two" src="https://github.com/Ale-Coeto/RegaderaAutomatica/assets/109093534/a124501e-15d4-4d21-b210-766a235a9cf9">
 <img width="550" alt="Two" src="https://github.com/Ale-Coeto/RegaderaAutomatica/assets/109093534/710233f2-ee07-4923-8431-3c839f946c1a">
 
+# Team Members
+Jocelyn Velarde 
+
+Melissa Esparza
+
+Alejandra Coeto
 
 
 
