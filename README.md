@@ -6,7 +6,7 @@ At this hackathon, the goal was to propose a solution to the issue of water scar
 Our solution included the following:
 - Functional prototype with Arduino, pumps, sensors and solenoid valves (programmed with Arduino)
 - [CAD design](https://cad.onshape.com/documents/e1c0fad38eb51b710241040b/w/15ff5aebf5c887ae65428475/e/6598c40e1380575e82b8edcb?renderMode=0&uiState=62e88e991e8eaf63aa726923) of the final product
-- [Business plan](Plan ejecutivo.pdf) including estimated savings
+- [Business plan](PlanEjecutivo.pdf) including estimated savings
 
   
 # Interview 
